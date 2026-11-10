@@ -1,0 +1,27 @@
+
+{
+  "id": "/",
+  "name": "TRC Music - The Retro Collection",
+  "short_name": "TRC Music",
+  "description": "Discover and enjoy music on TRC Music.",
+  "start_url": "https://music.trc.com.np/",
+  "scope": "https://music.trc.com.np/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#080910",
+  "theme_color": "#080910",
+  "icons": [
+    {
+      "src": "https://arunadh007.github.io/trc-pwa/icons/trc-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://arunadh007.github.io/trc-pwa/icons/trc-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
